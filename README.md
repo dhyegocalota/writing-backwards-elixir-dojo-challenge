@@ -1,4 +1,4 @@
-# PhoneDialer
+# PhoneDialer [![Build Status](https://travis-ci.org/dhyegofernando/dojo-s02e01-escrevendo-celular-contrario-elixir.svg?branch=master)](https://travis-ci.org/dhyegofernando/dojo-s02e01-escrevendo-celular-contrario-elixir)
 
 Library written in Elixir as a fork from the [original source code for Coding Dojo S02E01](https://github.com/devmatogrosso/dojo-s02e01-escrevendo-celular-contrario)
 
